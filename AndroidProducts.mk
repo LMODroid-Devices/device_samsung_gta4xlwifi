@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_gta4xlwifi.mk
+    $(LOCAL_DIR)/lmodroid_gta4xlwifi.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_gta4xlwifi-eng \
-    lineage_gta4xlwifi-user \
-    lineage_gta4xlwifi-userdebug
+    lmodroid_gta4xlwifi-eng \
+    lmodroid_gta4xlwifi-user \
+    lmodroid_gta4xlwifi-userdebug
